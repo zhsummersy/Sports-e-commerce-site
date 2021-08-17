@@ -3,6 +3,6 @@
 开发中..........
 ###### 主要使用：
 - python
-+ Djano
++ Django
 * Boostrap
 
